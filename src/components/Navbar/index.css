@@ -1,0 +1,23 @@
+.Navbar {
+    height: 100%;
+    width: 100%;
+}
+h3 {
+    color: azure;
+}
+span{
+    color:red;
+}
+
+ul {
+    padding-left: 500px;
+}
+
+li {
+    transition-duration: 0.5s
+}
+
+button {
+    transition-duration: 0.4s
+}
+    
